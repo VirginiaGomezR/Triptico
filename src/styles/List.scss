@@ -1,0 +1,11 @@
+.gardens_container {
+  display: grid;
+  grid-column-gap: 20px;
+  background-color: #2196F3;
+  padding: 10px;
+
+    @media all and (min-width: 768px) {
+      grid-template-columns: auto auto auto;
+      grid-template-rows: repeat(5, 1fr);
+    }
+  }
