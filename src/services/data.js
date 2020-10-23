@@ -94,7 +94,7 @@ const gardens =
         pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/1935098181_18122009141729_adj.jpg?itok=JEgf2YfX",
         name:"Parque de la Casa de Campo",
         surface:"15.355.200 m²", 
-        district: "Casa de Campo-Moncloa-Aravaca",
+        district: "Moncloa-Aravaca",
         trees: "-",
         bush: "-",
         bushy: "19.860.000 m²"
@@ -103,7 +103,7 @@ const gardens =
         pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/jardin_principe_de_anglona_1.jpg?itok=yknZmy-n",
         name:"Jardines del Príncipe de Anglona",
         surface:"678 m²", 
-        district: "Palacio-Centro",
+        district: "Centro",
         trees: "21",
         bush: "14",
         bushy: "149 m²"
@@ -112,7 +112,7 @@ const gardens =
         pic:"https://www.secretosdemadrid.es/wp-content/uploads/2017/08/10931537644_4d0cee0d56_b-1024x516.jpg",
         name:"Jardines de la Plaza de Oriente, Lepanto y Cabo Noval",
         surface:"29.437 m²", 
-        district: "Palacio-Centro",
+        district: "Centro",
         trees: "261",
         bush: "25.968",
         bushy: "-"
@@ -121,7 +121,7 @@ const gardens =
         pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/quinta_de_torre_arias_0.jpg?itok=-NRsXfKg",
         name:"Quinta de Torre Arias",
         surface:"170.000 m²", 
-        district: "El Salvador - San Blas-Canillejas",
+        district: "San Blas-Canillejas",
         trees: "-",
         bush: "-",
         bushy: "-"
@@ -130,7 +130,7 @@ const gardens =
         pic:"https://www.esmadrid.com/sites/default/files/recursosturisticos/infoturistica/62015739_21122009144237_adj.jpg",
         name:"Jardines de Sabatini",
         surface:"25.400 m²", 
-        district: "Palacio-Centro",
+        district: "Centro",
         trees: "317",
         bush: "-",
         bushy: "-"
