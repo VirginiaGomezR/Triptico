@@ -15,7 +15,9 @@ class App extends React.Component {
     return (
         <div className="App">
           <div className="grid-container">
-            <h1 className="portada">Jardines Históricos y Singulares de Madrid</h1>
+            <div className="App_title">
+            <h1 className="title">Jardines Históricos y Singulares de Madrid</h1>
+            </div>
             <List gardens={this.state.gardens}/>
           </div>
         </div>

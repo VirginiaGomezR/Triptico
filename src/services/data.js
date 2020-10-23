@@ -46,7 +46,7 @@ const gardens =
         bushy: "137.750 m²"
     },
     {
-        pic:"https://static1.abc.es/Media/201311/27/parque-juan-pablo-madrid-jpg--644x362.jpg",
+        pic:"https://www.vidademadrid.com/es/wp-content/uploads/2020/05/parque-juan-pablo-ii.jpg",
         name:"Parque Juan Pablo II",
         surface:"104.100 m²", 
         district: "Hortaleza",
@@ -55,9 +55,9 @@ const gardens =
         bushy: "36.000 m²"
     },
     {
-        pic:"https://patrimonioypaisaje.madrid.es/FWProjects/monumenta/Edificios/90002/03.05-img%201.jpg",
+        pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/retiro_0173.jpg?itok=Wz1tVhi3",
         name:"Jardines de El Buen Retiro",
-        surface:"1.180.000 m²", 
+        surface:"1.177.300 m²", 
         district: "Retiro",
         trees: "19.859",
         bush: "7.922",
@@ -66,7 +66,7 @@ const gardens =
     {
         pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/parqueoeste_07.jpg?itok=WCGSu9AH",
         name:"Parque del Oeste",
-        surface:"637.837 m²", 
+        surface:"788.100 m²", 
         district: "Moncloa-Aravaca",
         trees: "8.491",
         bush: "1.129",
@@ -77,12 +77,12 @@ const gardens =
         name:"Quinta de la Fuente del Berro",
         surface:"74.000 m²", 
         district: "Salamanca",
-        trees: "-",
+        trees: "1.419",
         bush: "-",
         bushy: "-"
     },
     {
-        pic:"https://guias-viajar.com/madrid/wp-content/uploads/2017/02/Quinta-Molinos-FB-012.jpg",
+        pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/quintadelosmolinosalmendros.jpg?itok=TdZEd9o8",
         name:"Parque Quinta de los Molinos",
         surface:"212.619 m²", 
         district: "San Blas-Canillejas",
@@ -93,8 +93,8 @@ const gardens =
     {
         pic:"https://www.esmadrid.com/sites/default/files/styles/content_type_full/public/recursosturisticos/infoturistica/1935098181_18122009141729_adj.jpg?itok=JEgf2YfX",
         name:"Parque de la Casa de Campo",
-        surface:"17.226.000 m²", 
-        district: "Moncloa-Aravaca",
+        surface:"15.355.200 m²", 
+        district: "Casa de Campo-Moncloa-Aravaca",
         trees: "-",
         bush: "-",
         bushy: "19.860.000 m²"
@@ -109,11 +109,11 @@ const gardens =
         bushy: "149 m²"
     },
     {
-        pic:"https://cityofmadridfilmoffice.com/wp-content/uploads/2019/03/Plaza-de-Oriente_9_resultado.jpg",
+        pic:"https://www.secretosdemadrid.es/wp-content/uploads/2017/08/10931537644_4d0cee0d56_b-1024x516.jpg",
         name:"Jardines de la Plaza de Oriente, Lepanto y Cabo Noval",
         surface:"29.437 m²", 
         district: "Palacio-Centro",
-        trees: "-",
+        trees: "261",
         bush: "25.968",
         bushy: "-"
     },
