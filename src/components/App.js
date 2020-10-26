@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/App.scss';
 import List from './List';
 import Data from "../services/data";
+import Pulse from 'react-reveal/Pulse';
 
 class App extends React.Component {
   constructor(props) {
@@ -14,10 +15,13 @@ class App extends React.Component {
   render() {
     return (
         <div className="App">
-          <div className="grid-container">
-            <div className="App_title">
-            <h1 className="title">Jardines Históricos y Singulares de Madrid</h1>
+            <div className="App_header">
+              <div className = "triangle"></div>
+              <Pulse>
+              <h1 className="title">Jardines Históricos y Singulares de Madrid</h1>
+              </Pulse>
             </div>
+          <div className="grid-container">
             <List gardens={this.state.gardens}/>
           </div>
         </div>

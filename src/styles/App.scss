@@ -1,15 +1,43 @@
-.grid-container {
 
+.App_header {
+  bacKground-color:#184d08;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 
   @media all and (min-width: 768px) {
+    flex-direction: row;
+  
+  }
 
+  .triangle{  
+    width: 0;
+    height: 0;
+    transform: rotate(0deg);
+    border-left: 25px solid transparent;
+    border-right: 250px solid transparent;
+    border-bottom: 100px solid #9ba2c1;
+
+
+    @media all and (min-width: 768px) {
+      width: 238px;
+    }
 
   }
-}
-
-.title{
-  text-transform: uppercase;
-  background-color:pink;
-
+  
+    .title{
+      text-transform: uppercase;
+      color: white;
+      padding:5px;
+      font-size: 20px;
+      width: 100%;
+      position: absolute;
+    
+      @media all and (min-width: 768px) {
+        font-size: 35px;
+      }
+    }
 }
 
