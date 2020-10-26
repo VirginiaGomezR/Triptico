@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.scss';
-import List from './components/List';
-import Data from "./services/data";
+import '../styles/App.scss';
+import List from './List';
+import Data from "../services/data";
 
 class App extends React.Component {
   constructor(props) {
