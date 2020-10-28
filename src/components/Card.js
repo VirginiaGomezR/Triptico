@@ -19,6 +19,7 @@ class Card extends React.Component {
                 <p className="trees">Nº árboles: {this.props.data.trees}</p>
                 <p className="bush">Nº arbustos: {this.props.data.bush}</p>
                 <p className="bushy">Macizos arbustivos: {this.props.data.bushy}</p>
+                <a className="mapid" href={this.props.data.map} target={"_blank"}>Ver Mapa <i class="fas fa-map-marker-alt"></i></a>
             </div>
             </Fade>
         </div> 
