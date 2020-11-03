@@ -1,16 +1,29 @@
+## Tríptico: Jardines históricos y singulares de Madrid 🌿
+
 Madrid posee un rico y extenso patrimonio verde, destacando sus parques y jardines, tanto los de carácter histórico como los de avanzado diseño jardinero.
 
-## Installation
+## Proyecto Final - REACT
 
-### `npm install react-reveal --save`
+El objetivo de este proyecto es imitar el típico tríptico informativo de las oficinas de turismo con información de los jardines históricos y singulares de Madrid.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Herramientas
 
-## Available Scripts
+- React
+- React Reveal
+- JavaScript
+- Sass
+- Visual Studio Code
 
-In the project directory, you can run:
+## ¿Cómo arrancar el proyecto?
 
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clonar el repositorio en tu ordenador
+```
+$ git clone https://github.com/VirginiaGomezR/Triptico.git
+```
+2. Instalar dependencias
+```
+$ npm install
+```
+3. Arrancar en modo desarrollo: 
+````
+$ npm start
